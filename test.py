@@ -7,7 +7,6 @@
 # 	print (r)
 
 class Person:
-	"""docstring for Person"""
 	def __init__(self, name,age,salary):
 		# super(Person, self).__init__()
 		self.name = name
