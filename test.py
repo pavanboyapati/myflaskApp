@@ -1,10 +1,10 @@
  # import itertools
 
-# list = [1,2,3]
+list = [1,2,3]
 
-# result = itertools.permutations(list, 2)
-# for r in result:
-# 	print (r)
+result = itertools.permutations(list, 2)
+for r in result:
+	print (r)
 
 class Person:
 	"""docstring for Person"""
